@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroScreamer
+- 👋 Hi, I’m @AstroScreamer aka Alok Kumar Nishad
 - 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...Java, Python
 - 💞️ I’m looking to collaborate on ...
